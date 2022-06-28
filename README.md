@@ -1,33 +1,30 @@
+
 ![Web Developer](https://media-exp2.licdn.com/dms/image/C4E16AQGPVvlWFbNgGg/profile-displaybackgroundimage-shrink_200_800/0/1636591908193?e=1661990400&v=beta&t=tOvkZiIpBLvqA5ZsonCji6VGonHVXfQP-pwkAJYf2Ik)
+<h1 align="center">Hi 👋, I'm Md Kaium Islam</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<img align="right"  width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="codeing">
 
-### Hi there 👋, I'm Md Kaium
-#### Web Developer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaium456&label=Profile%20views&color=0e75b6&style=flat" alt="kaium456" /> </p>
 
+<p align="left"> <a href="https://twitter.com/md kaium islam" target="blank"><img src="https://img.shields.io/twitter/follow/md kaium islam?logo=twitter&style=for-the-badge" alt="md kaium islam" /></a> </p>
 
-Hi, there. I am a Full Stack web developer. I am passionate about making any website 100% Client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible.    I pride myself on doing quality work and maintaining excellent communication. I really love my job and enjoy it. I am working with includes React, Javascript as well as Node Js. 
+- 🌱 I’m currently learning **JavaScript**
 
-Skills:  REACT / JS / HTML / CSS
+- 💬 Ask me about **Web,MERN**
 
-- 🔭 I’m currently working on My Project 
-- 🌱 I’m currently learning Javascript 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about web developer 
+- 📫 How to reach me **kaiumbd456@gmai.co**
 
+- ⚡ Fun fact **I think I am funny**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kaium456)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/coderkaium//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100009233359977)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/md kaium islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md kaium islam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/coderkaium/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md kaium" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100009233359977" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md kaium" height="30" width="40" /></a>
+</p>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaium456&show_icons=true&locale=en&layout=compact" alt="kaium456" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kaium456)](https://github.com/ryo-ma/github-profile-trophy)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaium456&show_icons=true&locale=en" alt="kaium456" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaium456)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaium456&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kaium456)  
-
-![GitHub metrics](https://metrics.lecoq.io/Kaium456)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Kaium456)  
-
-![Profile views](https://gpvc.arturio.dev/Kaium456)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaium456&" alt="kaium456" /></p>
