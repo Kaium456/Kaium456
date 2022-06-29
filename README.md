@@ -1,4 +1,4 @@
-![Web Developer](https://media-exp2.licdn.com/dms/image/C4E16AQGPVvlWFbNgGg/profile-displaybackgroundimage-shrink_200_800/0/1636591908193?e=1661990400&v=beta&t=tOvkZiIpBLvqA5ZsonCji6VGonHVXfQP-pwkAJYf2Ik)
+![Web Developer](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 <h1 align="center">Hi 👋, I'm Md Kaium Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right"  width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="codeing">
